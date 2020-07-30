@@ -1,6 +1,6 @@
-# Google Camera 7.3 For Violet
+# Google Camera For Vince
 
-Reworked Google Camera 7.3 For Violet
+Reworked Google Camera for Vince
 
 ## How To Build
 
